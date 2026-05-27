@@ -1,6 +1,6 @@
 # 🛡️ Smart Phishing URL Detector
 
-Welcome to the Smart Phishing URL Detector — a lightweight, full-stack Python web application designed to analyze web addresses for common phishing indicators and heuristics. Built with Flask, Python, HTML, and CSS, this project is ideal for learners, network administrators, and anyone curious about lightweight cyber security tools in web development.
+Welcome to the Smart Phishing URL Detector - a lightweight, full-stack Python web application designed to analyze web addresses for common phishing indicators and heuristics. Built with Flask, Python, HTML, and CSS, this project is ideal for learners, network administrators, and anyone curious about lightweight cyber security tools in web development.
 
 ## ✨ Features
 
